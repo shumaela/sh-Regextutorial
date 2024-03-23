@@ -69,5 +69,3 @@ Character escapes are used to match special characters literally instead of inte
 [Github-Gist Link: Click Here](https://gist.github.com/shumaela/9be3650dafa90f142db27ee2b34a4be4)
 
 [Github Repo Link: Click Here](https://github.com/shumaela/sh-Regextutorial)
-
-[Github Deployed-Repo Link:](https://shumaela.github.io/sh-Regextutorial/)
