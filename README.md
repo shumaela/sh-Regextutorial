@@ -9,6 +9,12 @@ I WANT a tutorial explaining a specific regex
 SO THAT I can understand the search pattern the regex defines
 ```
 
+## Description
+
+```md
+This Regex tutorial aims to explain the functioning of the regular expression '/^<([a-z]+)([^<]+)*(?:>(.*)<\/\1>|\s+\/>)$/' by breaking down each component and describing its role.
+```
+
 ## Acceptance Criteria
 
 ```md
@@ -22,3 +28,13 @@ THEN I find a detailed explanation of what a specific component of the regex doe
 WHEN I reach the end of the tutorial
 THEN I find a section about the author and a link to the author’s GitHub profile
 ```
+
+## Links
+
+```md
+[Github-Gist Link: Click Here](https://gist.github.com/shumaela/9be3650dafa90f142db27ee2b34a4be4)
+
+[Github Repo Link: Click Here](https://github.com/shumaela/sh-Regextutorial)
+```
+
+## Screenshots
