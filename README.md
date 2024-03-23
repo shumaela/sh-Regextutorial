@@ -38,3 +38,9 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 ```
 
 ## Screenshots
+
+```md
+![image](https://github.com/shumaela/sh-Regextutorial/assets/147661185/6aad54f0-7956-43cb-a1fb-a4bb60ea3138)
+![image](https://github.com/shumaela/sh-Regextutorial/assets/147661185/37d3fb44-6d82-4a6f-a051-8bce607f88e1)
+```
+
