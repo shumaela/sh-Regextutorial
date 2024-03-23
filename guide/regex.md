@@ -64,7 +64,7 @@ Character escapes are used to match special characters literally instead of inte
 '\/' escapes the forward slash '/', ensuring it's treated as a literal character within the regex.
 
 ## Author
-[Shumaela Laeeq]
+[Shumaela Laeeq](https://github.com/shumaela)
 
 [Github-Gist Link: Click Here](https://gist.github.com/shumaela/9be3650dafa90f142db27ee2b34a4be4)
 
